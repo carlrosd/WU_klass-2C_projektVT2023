@@ -1,0 +1,2 @@
+Open('cm-unicode/cmunbbx.pfb');
+Generate('test.ttf');

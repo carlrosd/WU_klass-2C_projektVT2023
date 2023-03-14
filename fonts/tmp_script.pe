@@ -1,0 +1,2 @@
+Open('cm-unicode/cmunvt.pfb')
+Generate('cm-unicode/cmunvt.ttf')
